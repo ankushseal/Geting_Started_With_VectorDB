@@ -24,7 +24,7 @@ pip install qdrant-client sentence-transformers
 
 ```bash
 git clone https://github.com/your-username/healthcare-data-analysis.git
-cd healthcare-data-analysis
+cd healthcare-data-analysis-using-vectordb
 ```
 
 2. Run the Python script `healthcare_analysis.py`:
