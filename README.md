@@ -27,10 +27,10 @@ git clone https://github.com/your-username/healthcare-data-analysis.git
 cd healthcare-data-analysis-using-vectordb
 ```
 
-2. Run the Python script `healthcare_analysis.py`:
+2. Run the Python script `main.py`:
 
 ```bash
-python healthcare_analysis.py
+python main.py
 ```
 
 3. Follow the prompts to input the Date of Birth (DOB) you want to search for.
